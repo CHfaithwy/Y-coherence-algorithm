@@ -1,0 +1,4 @@
+﻿  Y连贯算法.cpp
+C:\Users\86133\Desktop\desktop\图形学\Y连贯算法\Y连贯算法.cpp(134,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86133\Desktop\desktop\图形学\Y连贯算法\Y连贯算法.cpp(160,33): warning C4326: “main”的返回类型应为“int”而非“void”
+  Y连贯算法.vcxproj -> C:\Users\86133\Desktop\desktop\图形学\Y连贯算法\Debug\Y连贯算法.exe

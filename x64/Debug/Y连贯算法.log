@@ -1,0 +1,5 @@
+﻿  Y连贯算法.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(127,1): warning C4005: “CALLBACK”: 宏重定义
+E:\VS2022\Vs2022\VC\Tools\MSVC\14.31.31103\include\gl\glut.h(33): message : 参见“CALLBACK”的前一个定义
+C:\Users\86133\Desktop\desktop\图形学\Y连贯算法\Y连贯算法.cpp(117,33): warning C4326: “main”的返回类型应为“int”而非“void”
+LINK : fatal error LNK1104: 无法打开文件“glut32.lib”
